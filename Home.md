@@ -1,5 +1,4 @@
 Welcome to the WATCHMAN wiki!
 
-[Data Structure]
 
-[Registers]
+[TARGETX recommended values](https://github.com/WMidlab/WATCHMAN/wiki/TARGETX-Register-Map-with-Recommended-Values)
