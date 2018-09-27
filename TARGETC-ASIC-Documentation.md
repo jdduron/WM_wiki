@@ -1,4 +1,4 @@
-Return to [WATCHMAN Wiki home](https://github.com/WMidlab/WATCHMAN/wiki)
+Return to [WATCHMAN Wiki home](https://github.com/WMidlab/WATCHMAN/wiki/WATCHMAN-IDLAB-Wiki)
 ## Useful Files:
 
 
