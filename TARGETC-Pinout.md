@@ -1,7 +1,7 @@
 Return to [TARGETC ASIC page](https://github.com/WMidlab/WATCHMAN/wiki/TARGETC-ASIC-Documentation)
 
 
-## TARGETC Pinout
+### TARGETC Pinout
 | Pin # | Pin Name    | Connection type                 | Comments               |
 |-------|-------------|---------------------------------|------------------------|
 | 1     | RFin_1      | PMT input Ch. 1                 | termination R          |
