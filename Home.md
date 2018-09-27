@@ -1,8 +1,5 @@
 Welcome to the WATCHMAN wiki!
 
-[TARGETC ASIC Pinout](https://github.com/WMidlab/WATCHMAN/wiki/TARGETC-Pinout)
-
-[TARGETX recommended values](https://github.com/WMidlab/WATCHMAN/wiki/TARGETX-Register-Map-with-Recommended-Values)
 
 [Schematic for TARGETC FMC board](https://www.phys.hawaii.edu/~idlab/taskAndSchedule/PCBs/IDL_18_030/WATCHMAN_TC_prototype_revC.pdf)
 
