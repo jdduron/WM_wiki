@@ -6,8 +6,10 @@ The packet structure consists of a string of char. The first 4 char make up the 
 
 Example: `head/4/body1/body2/body3/end`
 
-|    Word      |    Bits 31:16      |       Notes/description                        |  |--------------|--------------------|------------------------------------------------|
-|    0         |    0x68656164      |    header word ->   "head" in ASCII            |
-|    1         |    packet size     |    number of words   following this one (N-2)  |
-|    2         |    packet type     |    (specific identifiers   enumerated below)   |
-|    3:N-2     |    …               |    packet data                                 |
+
+|    Word      |    Bits 31:0       |  Notes/Description                                | 
+|--------------|--------------------|---------------------------------------------------|
+|    0         |    0x68656164      |    header word ->   "head" in ASCII               |  
+|    1         |    packet size     |    number of words   following this one (N-2)     |
+|    2:N-1     |    body            |    (specific identifiers   enumerated below)      |
+|    N-2       |   "end"            |    end                                            |
