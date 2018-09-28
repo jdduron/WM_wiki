@@ -1,5 +1,5 @@
 ## Welcome to the WATCHMAN wiki!
-Collaborators:
+Collaborators:  -
 Jose Duron -
 Ky Ho -
 Anthony Schluchin -
