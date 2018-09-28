@@ -1,5 +1,5 @@
 ### **[WATCHMAN Wiki home](https://github.com/WMidlab/WATCHMAN/wiki)**
-**[Firmware Structure](https://github.com/WMidlab/WATCHMAN/wiki/Firmware-Structure)
+**[Firmware Structure](https://github.com/WMidlab/WATCHMAN/wiki/Firmware-Structure)**
 
 **[WATCHMAN TARGETC FMC Board](https://github.com/WMidlab/WATCHMAN/wiki/TARGETC-FMC-Prototype-Board)**
 
