@@ -10,6 +10,8 @@ Hendriks Jonathan
 
 [Firmware Structure](https://github.com/WMidlab/WATCHMAN/wiki/Firmware-Structure)
 
+[Python Scripts Documentation](https://github.com/WMidlab/WATCHMAN/wiki/Python-Scripts)
+
 [WATCHMAN TARGETC FMC Board](https://github.com/WMidlab/WATCHMAN/wiki/TARGETC-FMC-Prototype-Board)
 
 [TARGETC ASIC Documentation](https://github.com/WMidlab/WATCHMAN/wiki/TARGETC-ASIC-Documentation)
