@@ -5,7 +5,7 @@ Ky Ho -
 Anthony Schluchin -
 Hendriks Jonathan
 
-![img_1846](https://user-images.githubusercontent.com/40073656/46239977-38036200-c33c-11e8-9a25-123992eea144.JPG)
+![wm_idlab_team](https://user-images.githubusercontent.com/40073656/46239999-9f211680-c33c-11e8-9efb-818d534a5cf7.jpg)
 
 [Firmware Structure](https://github.com/WMidlab/WATCHMAN/wiki/Firmware-Structure)
 
