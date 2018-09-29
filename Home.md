@@ -3,7 +3,7 @@ Collaborators:  -
 Jose Duron -
 Ky Ho -
 Anthony Schluchin -
-Hendriks Jonathan
+Hendriks Jonathan - Vasiliy Shebalin
 
 ![wm_idlab_team](https://user-images.githubusercontent.com/40073656/46239999-9f211680-c33c-11e8-9efb-818d534a5cf7.jpg)
 
