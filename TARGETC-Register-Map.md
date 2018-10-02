@@ -1,4 +1,4 @@
-Return to [WATCHMAN Wiki home](https://github.com/WMidlab/WATCHMAN/wiki)
+Return to [TARGETC ASIC page](https://github.com/WMidlab/WATCHMAN/wiki/TARGETC-ASIC-Documentation)
 
 
 ### TARGETC Register Map
